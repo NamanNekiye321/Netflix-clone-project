@@ -46,10 +46,14 @@ A fully responsive Netflix landing page clone built using HTML, CSS, and JavaScr
 ![Footer](assets/screenshots/footer.png)
 
 ### 📱 Mobile View
-![Mobile](assets/screenshots/home-ui-mobile.png)
-![Mobile-trending-and-reason](assets/screenshots/trending-and-reason-ui-mobile.png)
 
----
+<p align="center">
+  <img src="assets/screenshots/home-ui-mobile.png" width="300">
+</p>
+
+<p align="center">
+  <img src="assets/screenshots/trending-and-reason-ui-mobile.png" width="300">
+</p>
 
 ## 🧠 What I Learned
 
