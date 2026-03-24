@@ -524,6 +524,19 @@ body {
   margin-bottom: 75px;
 }
 
+
+.disclaimer{
+  /* border: 2px solid red; */
+  width: 80vw;
+  margin: auto;
+  color: white;
+}
+.disclaimer p{
+  
+  color: white;
+}
+
+
 /* ================= MEDIA QUERIES ================= */
 
 /* tablet */
